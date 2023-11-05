@@ -1,3 +1,8 @@
+#A simple QR code generator that can generate QR codes for anything.
+
+![image](https://github.com/Voidwalker1999/QR-Code-Generator/assets/98208099/3f9c2b85-dba6-4475-babd-947a07e8ae66)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
